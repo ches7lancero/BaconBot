@@ -1,5 +1,5 @@
 # Bacon Bot
-###### An open source ai chatbot that actually talk to you!
+### An open source ai chatbot that actually talk to you!
 
 This bot is open source so which means you can modify the code, read, GO CRAZY WITH IT!
 
